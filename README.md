@@ -1,2 +1,1 @@
-# tejaswini.github.io
-Portfolio Website
+# Portfolio Website
