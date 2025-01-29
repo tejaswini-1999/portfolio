@@ -1,11 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400';
 
-/*
-	Stellar by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -3068,6 +3063,24 @@ input, select, textarea {
 
 	.spotlight .image {
 		border-color: rgba(255, 255, 255, 0.35);
+	}
+
+	.project-outer {
+		display: inline-block; 
+		text-align: center; 
+		margin: 20px auto
+	}
+
+	.project-inner {
+		width: 270px; 
+		height: 270px; 
+		border-radius: 50%; 
+		background-color: white;
+		overflow: hidden; 
+		display: flex; 
+		align-items: center; 
+		justify-content: center; 
+		margin: 0 auto;
 	}
 
 /* Header */
